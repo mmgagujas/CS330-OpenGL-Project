@@ -1,0 +1,16 @@
+﻿  MeshCreator.cpp
+  SceneObjects.cpp
+  Textures.cpp
+  assignment_5_5.cpp
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(173,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(239,18): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(293,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(294,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(298,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(299,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(301,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(302,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\OpenGLSample\assignment_5_5.cpp(312,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\mgagu\OneDrive\Desktop\CS330-5.5-MichaelGagujas - works - Copy\Debug\OpenGLSample.exe for writing

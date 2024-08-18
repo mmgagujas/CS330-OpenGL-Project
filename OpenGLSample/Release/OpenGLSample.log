@@ -1,0 +1,21 @@
+﻿  assignment_7_1.cpp
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(164,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(206,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(207,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(216,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(217,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(233,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(234,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(430,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(431,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(435,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(436,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(438,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(439,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\NewDesktop\CS330-7.1-MichaelGagujas\OpenGLSample\assignment_7_1.cpp(448,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 670 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLSample.vcxproj -> C:\NewDesktop\CS330-7.1-MichaelGagujas\Release\OpenGLSample.exe
